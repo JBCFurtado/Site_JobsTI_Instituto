@@ -1,9 +1,10 @@
-/*LOGIN*/
+/*TELA DE LOGIN*/
 
-/* Made with love by Mutiullah Samim*/
+/* Projeto Strix Virgata - Harpia Softwares*/
 
 @import url('https://fonts.googleapis.com/css?family=Numans');
 
+/* Alinhamento da Imagem de fundo - Chocolate */
 html,body{
 background-image: url('../images/login.jpg');
 background-size: cover;
@@ -12,11 +13,13 @@ height: 100%;
 font-family: 'Numans', sans-serif;
 }
 
+/* Início do Container */
 .container{
 height: 100%;
 align-content: center;
 }
 
+/* O card em preto tranparente */
 .card{
 height: 450px;
 margin-top: auto;
@@ -25,6 +28,7 @@ width: 400px;
 background-color: rgba(0,0,0,0.5) !important;
 }
 
+/* Ícone da Strix */
 .social_icon span{
 font-size: 60px;
 margin-left: 10px;
@@ -36,23 +40,27 @@ color: white;
 cursor: pointer;
 }
 
+/* Cabeçalho do Cartão */
 .card-header h3{
 color: white;
 }
 
+/* Posição do Ícone Strix */
 .social_icon{
 position: absolute;
 right: 20px;
 top: -45px;
 }
 
+/* Cor da caixa dos Inputs */
 .input-group-prepend span{
 width: 50px;
-background-color: #FFC312;
+background-color: #a85418;
 color: black;
 border:0 !important;
 }
 
+/* Configurações gerais da caixa de login */
 input:focus{
 outline: 0 0 0 0  !important;
 box-shadow: 0 0 0 0 !important;
@@ -71,23 +79,25 @@ margin-left: 15px;
 margin-right: 5px;
 }
 
+/* Cor do botão */
 .login_btn{
-color: black;
-background-color: #FFC312;
+color: white;
+background-color: #a85418;
 width: 100px;
 }
 
+/* Quando passar o mouse em cima do botão */
 .login_btn:hover{
 color: black;
 background-color: white;
 }
 
+/* Cor do link esquceu senha */
 .links{
 color: white;
 }
 
+/* Link alinhado a esquerda */
 .links a{
 margin-left: 4px;
 }
-
-
