@@ -93,11 +93,11 @@ background-color: white;
 }
 
 /* Cor do link esquceu senha */
-.links{
+.link{
 color: white;
 }
 
 /* Link alinhado a esquerda */
-.links a{
+.link a{
 margin-left: 4px;
 }
