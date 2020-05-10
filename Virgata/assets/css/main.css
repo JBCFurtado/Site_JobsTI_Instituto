@@ -6,7 +6,7 @@
 /* CABEÇALHO */
 #head {
 	/* ABAIXO É MINHA IMAGEM PRINCIPAL DO MEU HEADER*/
-	background: #181015 url(../images/cabeçalho.jpg) no-repeat;
+	background: #181015 url(../images/login.jpg) no-repeat;
 	background-size: cover;
 	min-height: 520px;
 	text-align: center;
