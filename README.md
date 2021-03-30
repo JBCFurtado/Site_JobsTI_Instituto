@@ -16,7 +16,7 @@ LICENÇA
 **atribuições criativas comuns 1.0** - harpiasoftwares.com.com
 
 <h1 align="center">
-  <img alt="SiteInstitucional"title="#SiteInstitucional" src="images/tela_principal.png"/>
+  <img alt="SiteInstitucional"title="#SiteInstitucional" src="image/tela_principal.png"/>
 </
 
 RECURSOS
