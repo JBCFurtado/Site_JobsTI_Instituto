@@ -17,7 +17,7 @@ LICENÇA
 
 <h2 align="center"> Tela Principal do Site </h2>
 <h1 align="center">
-  <img alt="AppChat"title="#AppChat" src="C:/github/Site_JobsTI_Instituto/assets/images/tela_principal"/>
+  <img alt="SiteTela"title="#SiteTela" src="C:/github/Site_JobsTI_Instituto/assets/images/tela_principal"/>
 </h1>
 
 RECURSOS
