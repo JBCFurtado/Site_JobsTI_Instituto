@@ -25,7 +25,7 @@ Aplicativo simples feito em flutter para buscar CEP.
 <h2 align="center"> Tela Principal do App </h2>
 <h1 align="center">
   
-  <img src="assets/images/tela_principal"/>
+  <img src="C:\github\Site_JobsTI_Instituto\assets\images"/>
 </h1>
 
 RECURSOS
