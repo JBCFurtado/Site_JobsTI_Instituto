@@ -14,19 +14,10 @@ desenvolvido figurativamente pela HARPIA SOFTWARES (empresa que eu, Jardel e o
 Site desenvolvido em Bootstrap 4 Atualmente v4.4.1 - HTML/CSS/JavaScript
 LICENÇA
 **atribuições criativas comuns 1.0** - harpiasoftwares.com.com
-<h1 align="center"> Busca CEP </h1>
 
-<h2 align="center"> Descrição do Projeto </h2>
-
-<p align="center"> 
-Aplicativo simples feito em flutter para buscar CEP.
-</p>
-
-<h2 align="center"> Tela Principal do App </h2>
 <h1 align="center">
-  
-  <img src="C:/github/Site_JobsTI_Instituto/assets/images"/>
-</h1>
+  <img alt="SiteInstitucional"title="#SiteInstitucional" src="images/tela_principal.png"/>
+</
 
 RECURSOS
 --------
