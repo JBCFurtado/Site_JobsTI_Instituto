@@ -17,7 +17,7 @@ LICENÇA
 
 <h1 align="center">
   <img alt="SiteInstitucional"title="#SiteInstitucional" src="image/tela_principal.png"/>
-</
+</h1>
 
 RECURSOS
 --------
