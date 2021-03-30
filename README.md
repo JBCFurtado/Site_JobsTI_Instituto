@@ -13,7 +13,12 @@ desenvolvido figurativamente pela HARPIA SOFTWARES (empresa que eu, Jardel e o
 ========================================================================
 Site desenvolvido em Bootstrap 4 Atualmente v4.4.1 - HTML/CSS/JavaScript
 LICENÇA
-**atribuições criativas comuns 1.0** - harpiasoftwares.com
+**atribuições criativas comuns 1.0** - harpiasoftwares.com.com
+
+<h2 align="center"> Tela Principal do Site </h2>
+<h1 align="center">
+  <img alt="AppChat"title="#AppChat" src="images/tela_principal.png"/>
+</h1>
 
 RECURSOS
 --------
